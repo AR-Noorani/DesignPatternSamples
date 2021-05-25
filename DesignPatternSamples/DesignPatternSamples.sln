@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{67733695-F175-4E5F-89A3-E5BC39574C05}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Command\Command.csproj", "{653DDB3F-3DE5-4E91-9497-1E6A66C73633}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{67733695-F175-4E5F-89A3-E5BC39574C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67733695-F175-4E5F-89A3-E5BC39574C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67733695-F175-4E5F-89A3-E5BC39574C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653DDB3F-3DE5-4E91-9497-1E6A66C73633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653DDB3F-3DE5-4E91-9497-1E6A66C73633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653DDB3F-3DE5-4E91-9497-1E6A66C73633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653DDB3F-3DE5-4E91-9497-1E6A66C73633}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
