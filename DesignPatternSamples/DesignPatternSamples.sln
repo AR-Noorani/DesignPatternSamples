@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "Ch
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Command\Command.csproj", "{653DDB3F-3DE5-4E91-9497-1E6A66C73633}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "Composite\Composite.csproj", "{80AA7156-3962-46AF-B6DB-5D6ED2000609}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{653DDB3F-3DE5-4E91-9497-1E6A66C73633}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{653DDB3F-3DE5-4E91-9497-1E6A66C73633}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{653DDB3F-3DE5-4E91-9497-1E6A66C73633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80AA7156-3962-46AF-B6DB-5D6ED2000609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AA7156-3962-46AF-B6DB-5D6ED2000609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AA7156-3962-46AF-B6DB-5D6ED2000609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AA7156-3962-46AF-B6DB-5D6ED2000609}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
