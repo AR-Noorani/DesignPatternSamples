@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "Observer\Observ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prototype.csproj", "{2C80F61E-698D-4200-B805-20B7D853C109}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj", "{8C964069-C747-45FB-818C-AAA1CF37DB6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{2C80F61E-698D-4200-B805-20B7D853C109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C80F61E-698D-4200-B805-20B7D853C109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C80F61E-698D-4200-B805-20B7D853C109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C964069-C747-45FB-818C-AAA1CF37DB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C964069-C747-45FB-818C-AAA1CF37DB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C964069-C747-45FB-818C-AAA1CF37DB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C964069-C747-45FB-818C-AAA1CF37DB6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
